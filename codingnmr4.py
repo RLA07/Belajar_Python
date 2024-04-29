@@ -1,0 +1,13 @@
+print('')
+# Kode program python menggunakan tipe data Boolean untuk menentukan sebuah nilai bernilai benar atau salah
+print("Ini contoh kode program python menggunakan tipe data Boolean")
+print('')
+print("Apakah angka 5 lebih besar dari angka 4 ?")
+print(5>4)
+print('')
+print("Apakah 20 + 5 bernilai 30 ?")
+print(20+5==30)
+print('')
+print("Apakah 50 + 5 bernilai 55 ?")
+print(50+5==55)
+print('')
